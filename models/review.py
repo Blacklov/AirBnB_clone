@@ -1,5 +1,5 @@
 #!/usr/bin/python
-""" holds class Review"""
+""" hold class Review"""
 from models.base_model import BaseModel
 
 

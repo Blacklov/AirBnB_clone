@@ -1,5 +1,5 @@
 #!/usr/bin/python
-""" holds class State"""
+""" hold class State"""
 from models.base_model import BaseModel
 
 
